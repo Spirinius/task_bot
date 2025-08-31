@@ -1,2 +1,1 @@
-TOKEN = '8379617486:AAFIckshNDwI7RWWaFS3KGHOtJFEO2i4c_Y'
-MONGO_URL = "mongodb://localhost:27017"
+
